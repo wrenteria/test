@@ -4,7 +4,7 @@ Created on Wed Feb  1 09:51:06 2023
 
 @author: wrenteria
 """
-
+import numpy as np
 import streamlit as st
 st.write("Hello ,let's learn how to build a streamlit app together")
 st.title ("Test application")
